@@ -1,0 +1,11 @@
+names = []
+print(names)
+new_name = input("please enter new name")
+names.append(new_name)
+print(names)
+new_name = input("please enter new name")
+names.append(new_name)
+print(names)
+new_name = input("please enter new name")
+names.append(new_name)
+print(names)
